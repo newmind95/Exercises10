@@ -9,7 +9,6 @@ public class BMI {
     private int age;
     private double weight;     // in pounds.
     private double height;      // in inches.
-    private double feet;
     private static final double KILOGRAMS_PER_POUND = 0.45359237;
     private static final double METERS_PER_INCH = 0.254;
     private static final double INCH_PER_FOOT = 12;
